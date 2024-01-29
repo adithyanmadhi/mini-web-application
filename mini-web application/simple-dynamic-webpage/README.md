@@ -1,1 +1,1 @@
-# IMDb mini web application
+# Simple dynamic web page

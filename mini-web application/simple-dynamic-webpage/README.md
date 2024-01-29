@@ -1,5 +1,1 @@
-# Project euler task9
-
-Special Pythagorean Triplet
-
-Problem Link: https://projecteuler.net/problem=9
+# IMDb mini web application

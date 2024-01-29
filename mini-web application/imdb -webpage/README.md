@@ -1,5 +1,5 @@
-# Project euler task9
+# Mini web application of IMDb web page
 
-Special Pythagorean Triplet
 
-Problem Link: https://projecteuler.net/problem=9
+# Jira: 
+# https://mahendrankannan.atlassian.net/browse/ON-22

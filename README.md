@@ -1,6 +1,6 @@
-# mini web application
+# Mini web application
 
-# Create a mini IMDB kind of web application
+ Create a mini IMDB kind of web application 
 
 Create a simple webpage which allows the user to search using the IMDB title ID and see the movie details.
 
@@ -12,7 +12,7 @@ On Ajax Success, use the information returned by the API and update the movie de
 
 
 
-# Acceptance Criteria:
+Acceptance Criteria:
 
 The Page should be responsive, for both desktop and mobile
 
